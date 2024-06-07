@@ -5,8 +5,8 @@
 
 ## Integrantes
 
-- (https://github.com/m4tiolli) [Gabriel Matiolli]
-- (https://github.com/leoctaschin) [Leonardo Taschin]
+- [Gabriel Matiolli](https://github.com/m4tiolli) 
+- [Leonardo Taschin](https://github.com/leoctaschin) 
 
 ## Descrição do Projeto
 Blu é uma solução de monitoramento ambiental marinho desenvolvida para ajudar na identificação e combate à poluição marinha. Utilizando a plataforma Arduino, Blu monitora e exibe parâmetros críticos da água, como temperatura, pH, níveis de oxigênio dissolvido e salinidade. Este projeto é fundamental para garantir a saúde dos habitats marinhos, fornecendo dados em tempo real e alertando sobre condições adversas que podem prejudicar a vida marinha.
